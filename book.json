@@ -1,0 +1,40 @@
+{
+  "title": "Nginx中文文档",
+  "author": "shunyue1320",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "Home": "https://github.com/shunyue1320"
+    }
+  },
+  "plugins": [
+    "-sharing",
+    "-highlight",
+    "-livereload",
+    "prism",
+    "favicon"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/shunyue1320/nginx-book"
+    },    
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-solarizedlight.css"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy <a style=\"font-weight: bold\" href=\"https://github.com/shunyue1320/nginx-book\">Oopsguy.com</a> 2017",
+      "modify_label": "最后更新时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "github-buttons": {
+      "repo": "shunyue1320/nginx-book",
+      "types": [
+          "star",
+          "watch"
+      ],
+      "size": "small"
+    }
+  }
+}
