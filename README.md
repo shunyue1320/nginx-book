@@ -1,9 +1,8 @@
 <div align="center">
     <img src="https://nginx.org/nginx.png" alt="Nginx">
-    <h1>Nginx 中文文档</h1>
+    <h1><h1><a href="https://tsunyue1320.gitbook.io/nginx/v/main/">Nginx 官方文档中文翻译版</a></h1></h1>
 </div>
 
-# Nginx 官方文档中文翻译版
 ## 安装
 
 如果你没有安装 gitbook，则先使用 npm（或者 cnpm）安装 `gitbook-cli`：
